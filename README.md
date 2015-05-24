@@ -1,11 +1,12 @@
 # Game Gear Web Generator
 
-Utility to genreate wep pages with Game Gear games embedded using JavaGear emulator, with predefined configuration: 
+Utility to genreate web pages with Game Gear games embedded using JavaGear emulator, with predefined configuration.
 
-Features:
+Options:
 * Light Gun (On/Off),
 * Video Format (NTSC/PAL),
 * Resolution (Default:480:432).
 
+
 Usage:
-* Just drag&drop Game Gear rom files and web files will be generated.
+* Drag&Drop Game Gear rom files ato generate.
